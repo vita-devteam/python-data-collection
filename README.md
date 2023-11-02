@@ -30,10 +30,10 @@ Using mathematical expressions, recreate the ouput below using the values that t
 
 The first number is 5
 The second number is 7
---------------------------------
 Multiplying 5 and 7 results in 35
 5 + 7 = 12
 5 to the power of 7 results in 78125
+
 
 Assignment: M1HW2
 Concepts: Input/output, strings, and integers
