@@ -1,5 +1,5 @@
 
-This repository is for collecting Python data files for embedding in an open-source LLM known as the Virtual Interactive Teaching Assistent (VITA).
+This repository is to hold Python data files for embedding in an open-source LLM known as the Virtual Interactive Teaching Assistent (VITA).
 You will submit your .py files through the following link:
 
 To contribute, choose one or more assignments below to complete. Once you finish your initial coding, please submit the code before fixing any sytax or semantic errors.
